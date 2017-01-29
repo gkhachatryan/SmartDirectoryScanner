@@ -1,1 +1,1 @@
-# SmartDirectoryScanner
+# Smart Directory Scanner
