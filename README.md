@@ -1,5 +1,8 @@
 # Smart Directory Scanner
-This class library allows to get any folders structure on your computer.For using add reference on your application like this:
+This class library allows to get any folders structure on your computer.
+
+# How to use
+For using add reference on your application like this:
 ```C#
 using System.IO;
 using SmartDirectoryScanner;
